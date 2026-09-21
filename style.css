@@ -68,7 +68,7 @@ p { max-width: 68ch; }
   text-decoration: none;
 }
 .site-header .mark:hover { color: var(--ink); }
-.site-header .mark span { color: var(--rain); }
+.site-header .mark span { color: var(--rain-deep); }
 .site-nav { display: flex; gap: 22px; flex-wrap: wrap; }
 .site-nav a {
   font-size: 0.95rem;
