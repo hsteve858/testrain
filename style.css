@@ -329,7 +329,7 @@ section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
 .day-activity { font-size: 0.8rem; color: var(--ink-soft); line-height: 1.45; }
 .day-card a.day-link {
   margin-top: auto;
-  font-size: 0.78rem;
+  font-size: 0.80rem;
   text-decoration: none;
   color: var(--rain-deep);
   border-bottom: 1px solid var(--rain);
