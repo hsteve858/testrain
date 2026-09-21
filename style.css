@@ -256,7 +256,7 @@ main { max-width: 980px; margin: 0 auto; padding: 0 24px; }
 }
 
 /* ---- Section ---- */
-section { padding: 24px 0; }
+section { padding: 18px 0; }
 section h2 { font-size: 1.7rem; margin-bottom: 0.6em; }
 .section-lede {
   color: var(--ink-soft);
